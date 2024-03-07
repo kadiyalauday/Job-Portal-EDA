@@ -1,1 +1,1 @@
-# CognoRise-Infotech-Internship
+# EDA-Projects
