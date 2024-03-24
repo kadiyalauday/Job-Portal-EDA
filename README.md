@@ -21,11 +21,10 @@ The collected data contains inconsistencies, missing values, or irrelevant infor
 ### Exploratory Data Analysis (EDA)
 EDA involves analyzing various aspects of the job listings dataset. This includes:
 
-- Distribution of job titles
+- Distribution of job titles, work mode, work type and salaries
 - Salary trends across different industries
-- Popular industries and job sectors
-- Experience level requirements
-- Skills in demand
+- Popular industries based on salaries
+- Most preferable workmodes
   
 Insights gained from EDA can help job seekers make informed decisions, assist recruiters in understanding market demands, and provide valuable information for policymakers.
 
